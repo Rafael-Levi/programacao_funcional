@@ -10,11 +10,11 @@
 
 |   Integrantes     |Matrícula  |           Papeis           |
 |-------------------|-----------|----------------------------|
-| Rafael            |2318845    |documentação dos requisitos | 
-| Felipe Paixão     |2318845    |implementação do código     | 
-| Alexandre Oliveira|2318845    |implementação do código     | 
-| Regison           |2318845    |testes unitários            | 
-| Elton             |2318845    |testes de integração        | 
+|Felipe Paixão Lima                     |2323781    |Implementação do código     | 
+|Rafael Levi Dias Vasconcelos Ponte     |2318845    |Implementação do código     | 
+|Elton Vasconcelos Sales de Castro Braga|2222925    |Documentação dos requisitos | 
+|Vitor Regison Lima Machado             |2323779    |Documentação dos requisitos | 
+|Alexandre Oliveira                     |2323780    |Implementação de testes     | 
 
 
 
