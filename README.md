@@ -10,11 +10,11 @@
 
 |   Integrantes     |Matrícula  |           Papeis           |
 |-------------------|-----------|----------------------------|
-| Rafael            |2318845    |documentação dos requisitos | 
-| Felipe Paixão     |2318845    |implementação do código     | 
-| Alexandre Oliveira|2318845    |implementação do código     | 
-| Regison           |2318845    |testes unitários            | 
-| Elton             |2318845    |testes de integração        | 
+| Rafael            |2318845    |Implementação do código     | 
+| Felipe Paixão     |2318845    |Implementação do código     | 
+| Alexandre Oliveira|2318845    |Documentação dos requisitos | 
+| Regison           |2318845    |Documentação dos requisitos | 
+| Elton             |2318845    |Implementação de testes     | 
 
 
 
