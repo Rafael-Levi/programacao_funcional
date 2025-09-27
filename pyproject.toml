@@ -1,0 +1,19 @@
+[tool.poetry]
+name = "programacao-funcional"
+version = "0.1.0"
+description = ""
+authors = ["Rafael <rafaellevi@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.12"
+pytest = "^8.4.2"
+taskipy = "^1.14.1"
+
+[tool.taskipy.tasks]
+run = "python app.py"
+run_tests = "pytest tests.py"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
